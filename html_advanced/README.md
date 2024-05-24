@@ -1,4 +1,16 @@
-Hello, 
-I'm super excited to let y'all know that we've reached on advanced HTML!
-In this and coming projects,I will implement from scratch a webpage from a designer file.
-For this first project, I will focus on the HTML structure only - no CSS, no style - just pure HTML semantic. 
+# alu-web-development - HTML Advanced
+
+## Introduction
+
+This project focuses on building the HTML structure for a webpage based on a design provided in Figma.
+
+## Objectives
+
+* Implement a webpage from scratch using only HTML.
+* Focus on semantic structure without any CSS styling.
+* Utilize Figma to access the design details.
+
+## Figma Design
+
+The design file for this project is available on Figma
+
